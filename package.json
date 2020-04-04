@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ogabriel/nodejs-crash-course/issues"
   },
-  "homepage": "https://github.com/ogabriel/nodejs-crash-course#readme"
+  "homepage": "https://github.com/ogabriel/nodejs-crash-course#readme",
+  "dependencies": {
+    "uuid": "^7.0.3"
+  }
 }
