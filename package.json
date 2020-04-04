@@ -18,5 +18,8 @@
   "homepage": "https://github.com/ogabriel/nodejs-crash-course#readme",
   "dependencies": {
     "uuid": "^7.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
   }
 }
