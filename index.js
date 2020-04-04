@@ -1,1 +1,3 @@
-console.log("Hello from nodejs");
+const person = require('./person')
+
+console.log(person);
